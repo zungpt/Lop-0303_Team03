@@ -1,0 +1,1 @@
+#Chứa mã nguồn chung được sử dụng bởi cả backend và frontend (ví dụ: thư viện, tiện ích)
